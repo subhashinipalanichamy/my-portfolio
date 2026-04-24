@@ -1,19 +1,23 @@
-# My Personal Portfolio Website
+# My Portfolio Website
 
-A simple personal portfolio website built with HTML, CSS, and JavaScript.
+A personal portfolio website built to showcase my profile, 
+skills, and contact information.
 
-## Live Website
-https://subhashinipalanichamy.github.io/my-portfolio
+## 🔗 Live Site
+[View Portfolio](https://subhashinipalanichamy.github.io/my-portfolio)
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-## About
-I am an IT professional restarting my career.
-This portfolio was built fully from my iPhone.
+## 📌 Features
+- Responsive design
+- Skills section
+- Contact information
+- Project showcase
 
-## Author
-Subhashini
-GitHub: github.com/subhashinipalanichamy
+## 👩‍💻 About Me
+Software Developer with 1+ year of experience in UI development 
+and backend support. Oracle Certified Java SE Programmer. 
+Currently returning to IT through a Women Returnship Program.
